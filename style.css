@@ -5,5 +5,24 @@
     box-shadow: grey 10px 10px 20px;
     font-family: 'Dongle', sans-serif;
     font-size:30px;
-    pading:
+}
+
+.image
+{
+    width:300px;
+    height:280px;
+}
+.results{
+    background-image:url('84828-confetti-no-background.gif'); 
+    background-repeat:repeat;
+    border-radius:15px;
+    padding:30px;
+    box-shadow: grey 10px 10px 20px;
+    font-family: 'Dongle', sans-serif;
+    font-size:30px;
+    text-align:center
+}
+#answer{
+    color:red;
+    font-size:40px;
 }
